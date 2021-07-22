@@ -1,4 +1,4 @@
-# SoC_Facial-Recognisation
+# SoC_Facial-Recognitition
 
 # Check Point 1 (11th April 2021)
 
